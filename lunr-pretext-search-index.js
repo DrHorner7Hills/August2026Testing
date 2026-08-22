@@ -43,7 +43,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "2",
   "title": "My Additional Section",
-  "body": " My Additional Section  foo   The graph made by TikZ   A 5-cycle     bar  "
+  "body": " My Additional Section  foo   The graph made by TikZ   A 5-cycle     bar   Asymptote blue rectangular solid   rectangular solid  Try to get a simple blue 3D parallelopiped to show up in the PreTeXt output.     "
 },
 {
   "id": "figure-tikz-example-diagram",
@@ -53,6 +53,33 @@ var ptx_lunr_docs = [
   "number": "2.1",
   "title": "",
   "body": " The graph made by TikZ   A 5-cycle    "
+},
+{
+  "id": "blue-rectangular-solid",
+  "level": "2",
+  "url": "section-2.html#blue-rectangular-solid",
+  "type": "Figure",
+  "number": "2.2",
+  "title": "",
+  "body": " Asymptote blue rectangular solid   rectangular solid  Try to get a simple blue 3D parallelopiped to show up in the PreTeXt output.    "
+},
+{
+  "id": "worksheet-1",
+  "level": "1",
+  "url": "worksheet-1.html",
+  "type": "Section",
+  "number": "3",
+  "title": "My Worksheet",
+  "body": " My Worksheet   Asymptote skewed cone   hollow cone  Try to get a hollow cone to show up in the PreTeXt output.     bar  "
+},
+{
+  "id": "skewed-cone",
+  "level": "2",
+  "url": "worksheet-1.html#skewed-cone",
+  "type": "Figure",
+  "number": "3.1",
+  "title": "",
+  "body": " Asymptote skewed cone   hollow cone  Try to get a hollow cone to show up in the PreTeXt output.    "
 }
 ]
 
