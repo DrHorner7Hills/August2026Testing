@@ -64,22 +64,49 @@ var ptx_lunr_docs = [
   "body": " Asymptote blue rectangular solid   rectangular solid  Try to get a simple blue 3D parallelopiped to show up in the PreTeXt output.    "
 },
 {
-  "id": "worksheet-1",
+  "id": "section-3",
   "level": "1",
-  "url": "worksheet-1.html",
+  "url": "section-3.html",
   "type": "Section",
   "number": "3",
-  "title": "My Worksheet",
-  "body": " My Worksheet   Asymptote skewed cone   hollow cone  Try to get a hollow cone to show up in the PreTeXt output.     bar  "
+  "title": "Attempted Problem Set",
+  "body": " Attempted Problem Set    The problem to be solved  Answer 1    The problem to be solved    Asymptote skewed cone   hollow cone  Try to get a hollow cone to show up in the PreTeXt output.          The problem to be solved  Answer 1    The problem to be solved    Asymptote skewed cone   hollow cone  Try to get a hollow cone to show up in the PreTeXt output.        "
 },
 {
-  "id": "skewed-cone",
+  "id": "topic1-badname",
   "level": "2",
-  "url": "worksheet-1.html#skewed-cone",
-  "type": "Figure",
+  "url": "section-3.html#topic1-badname",
+  "type": "Checkpoint",
   "number": "3.1",
   "title": "",
-  "body": " Asymptote skewed cone   hollow cone  Try to get a hollow cone to show up in the PreTeXt output.    "
+  "body": " The problem to be solved  Answer 1  "
+},
+{
+  "id": "topic1-worsename",
+  "level": "2",
+  "url": "section-3.html#topic1-worsename",
+  "type": "Checkpoint",
+  "number": "3.2",
+  "title": "",
+  "body": " The problem to be solved    Asymptote skewed cone   hollow cone  Try to get a hollow cone to show up in the PreTeXt output.      "
+},
+{
+  "id": "topic2-badname",
+  "level": "2",
+  "url": "section-3.html#topic2-badname",
+  "type": "Checkpoint",
+  "number": "3.4",
+  "title": "",
+  "body": " The problem to be solved  Answer 1  "
+},
+{
+  "id": "topic2-worsename",
+  "level": "2",
+  "url": "section-3.html#topic2-worsename",
+  "type": "Checkpoint",
+  "number": "3.5",
+  "title": "",
+  "body": " The problem to be solved    Asymptote skewed cone   hollow cone  Try to get a hollow cone to show up in the PreTeXt output.      "
 }
 ]
 
